@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# BookStore-Api
-=======
 # BookStore API
 
 A RESTful API for managing books built with Node.js, Express, and MongoDB.
